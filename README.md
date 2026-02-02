@@ -1,4 +1,4 @@
-# 👋 Xin chào! Mình là Tô Hoài Nam
+# Hello ! Mình là Ngô Hoàng Duy
 
 ## 📌 Thông tin sinh viên
 - **Họ và Tên:** Tô Hoài Nam  
