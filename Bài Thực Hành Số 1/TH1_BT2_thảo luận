@@ -1,0 +1,25 @@
+BÀI TẬP 02 – PHÂN TÍCH BỐ CỤC TRANG WEB
+1️: Bố cục tổng thể của trang
+Trang web gồm các phần chính:
+Tiêu đề trang
+Tiêu đề khu vực khóa học
+Khu vực hiển thị danh sách khóa học
+Gồm 6 khóa học
+Sắp xếp thành 2 hàng × 3 cột
+Cấu trúc của mỗi khóa học
+Mỗi khóa học gồm:
+Hình ảnh minh họa
+Tên khóa học
+Mô tả ngắn
+Danh sách thông tin :
+Học phí
+Khai giảng
+Thời lượng
+Các phần tử HTML cần sử dụng :
+Tiêu đề lớn	<h2>
+Tiêu đề khu vực	<h3>
+Khung chia bố cục	<table>, <tr>, <td>
+Khối mỗi khóa học	<div> hoặc <td>
+Hình ảnh	<img>
+Mô tả	<p>
+Danh sách thông tin	<ul>, <li>.
