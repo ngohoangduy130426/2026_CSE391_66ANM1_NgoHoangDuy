@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài tập 02</title>
+</head>
+<body>
+
+<h3>KHÓA HỌC SẮP KHAI GIẢNG</h3>
+
+<table border="1" cellpadding="10" width="100%">
+
+    <tr>
+        <td width="33%">
+            <img src="img1.jpg" width="100%">
+            <h3>LẬP TRÌNH VIÊN QUỐC TẾ</h3>
+            <p>Chương trình đào tạo chuẩn quốc tế và toàn diện. Phù hợp với học sinh tốt nghiệp THPT, sinh viên và người định hướng theo nghề lập trình chuyên nghiệp.</p>
+            <ul>
+                <li>Học bổng: 15.000.000 VND</li>
+                <li>Khai giảng: 2/2024</li>
+                <li>Thời lượng: 2 - 2.5 năm</li>
+            </ul>
+        </td>
+
+        <td width="33%">
+            <img src="img2.jpg" width="100%">
+            <h3>LẬP TRÌNH WEB FULLSTACK</h3>
+            <p>Khóa học phù hợp với người bắt đầu lập trình hay người chuyển nghề. Trang bị từ frontend đến backend, xây dựng website hoàn chỉnh sau khóa học.</p>
+            <ul>
+                <li>Ưu đãi giảm 15% học phí</li>
+                <li>Khai giảng: 2/2024</li>
+                <li>Thời lượng: 6 tháng</li>
+            </ul>
+        </td>
+
+        <td width="33%">
+            <img src="img3.jpg" width="100%">
+            <h3>LẬP TRÌNH JAVA FULLSTACK</h3>
+            <p>Phát triển ứng dụng web từ cơ bản đến nâng cao bằng Java, các ứng dụng doanh nghiệp sử dụng J2EE, Servlet, JSP, Spring Framework, EJB......</p>
+            <ul>
+                <li>Ưu đãi giảm 15% học phí</li>
+                <li>Khai giảng: 2/2024</li>
+                <li>Thời lượng: 236 giờ</li>
+            </ul>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <img src="img4.jpg" width="100%">
+            <h3>LẬP TRÌNH PHP & LARAVEL</h3>
+            <p>PHP là một trong các ngôn ngữ thiết kế web mạnh nhất. Khóa học trang bị kỹ năng xây dựng web hoàn chỉnh sử dụng PHP kết hợp Laravel Framework.</p>
+            <ul>
+                <li>Khai giảng: 5/2/2024</li>
+                <li>Học phí: 9.600.000 VND</li>
+                <li>Thời lượng: 36 giờ</li>
+            </ul>
+        </td>
+
+        <td>
+            <img src="img5.jpg" width="100%">
+            <h3>KHÓA HỌC LẬP TRÌNH .NET</h3>
+            <p>Phát triển ứng dụng web sử dụng nền tảng ASP.NET Core MVC. Để học tốt khóa học yêu cầu học viên đã có kiến thức C# và Frontend.</p>
+            <ul>
+                <li>Khai giảng: 2/2024</li>
+                <li>Thời lượng: 40 giờ</li>
+                <li>Học phí: 6.000.000 VND</li>
+            </ul>
+        </td>
+
+        <td>
+            <img src="img6.jpg" width="100%">
+            <h3>LẬP TRÌNH SQL SERVER</h3>
+            <p>Trang bị những kiến thức nền tảng vững chắc về SQL Server như các kỹ thuật : lọc dữ liệu , phân tích , thiết kế và quản trị cơ sở dữ liệu.</p>
+            <ul>
+                <li>Khai giảng: 2/2024</li>
+                <li>Học phí: 4.500.000 VND</li>
+                <li>Thời lượng: 30 giờ</li>
+            </ul>
+        </td>
+    </tr>
+
+</table>
+
+</body>
+</html>
+
