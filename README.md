@@ -6,7 +6,7 @@
 +  Trường: Trường Đại Học Thủy Lợi   
 
 ## - Giới thiệu
-Repository này được tạo để lưu trữ bài tập, bài thực hành và tài liệu học tập trong môn Nền Tảng Phát Triển Web (CSE391)
+Repos này được tạo để lưu trữ bài tập, bài thực hành và tài liệu học tập trong môn Nền Tảng Phát Triển Web (CSE391)
 
 ## - Mục tiêu
 + Hiểu rõ kiến thức nền tảng về phát triển Web  
