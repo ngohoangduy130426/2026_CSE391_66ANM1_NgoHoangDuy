@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    padding:20px;
+}
+
+.form, .filter{
+    margin-bottom:10px;
+}
+
+input, select{
+    padding:5px;
+    margin-right:5px;
+}
+
+table{
+    border-collapse:collapse;
+    width:600px;
+}
+
+th,td{
+    padding:8px;
+    text-align:center;
+}
+
+.low-score{
+    background-color:yellow;
+}
