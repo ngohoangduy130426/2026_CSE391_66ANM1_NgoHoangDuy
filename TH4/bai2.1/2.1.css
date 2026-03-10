@@ -1,0 +1,33 @@
+body{
+font-family:Arial;
+padding:20px;
+}
+
+.field{
+margin-bottom:12px;
+}
+
+input{
+padding:6px;
+width:250px;
+}
+
+.error{
+color:red;
+font-size:13px;
+display:block;
+}
+
+.success{
+font-size:20px;
+color:green;
+margin-top:20px;
+}
+
+input.error-border{
+border:2px solid red;
+}
+
+input.success-border{
+border:2px solid green;
+}   
